@@ -58,3 +58,7 @@ O projeto realiza as seguintes análises:
 3. Samuel de Sousa
 4. Elieudo Márcio
 5. Antônio Vitor
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
